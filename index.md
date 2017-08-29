@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Congratulations, you've made it to the Girls Code meetup! What's next?
 
 You can use the [editor on GitHub](https://github.com/edieblu/girls-code-meetup/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
