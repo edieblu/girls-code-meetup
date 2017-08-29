@@ -11,9 +11,11 @@ You aren't expected to know all of the technologies and programming languages ou
 
 ###HTML
 __HTML__ stands for __HyperText Markup Language__. It describes the content of the website as well as its structure (what is a title, what is a paragraph and what is a list etc). __HyperText__ means that you can jump from one document to the other, or from one part of the webiste to the other (think Wikipedia), by clicking links. 
-__Markup language__ means that you need to use a set of tags to define the structure of the language. For example <p> means paragraph, <strong> means bold and <br> means a line break. 
-  
+__Markup language__ means that you need to use a set of tags to define the structure of the language. Tags look like this < > with some text in between. HTML files are saved in a file ending with .html. 
+
 ###CSS
+__CSS__ stands for __Cascading Style Sheet__ and is the design of the website. With CSS you can set the background colour, create a specific layout (columns) and even do some fancy animation. Like HTML CSS has a specific syntax, instead of tags < > you will use a lot of curly braces { }. CSS files end with .css. So, if HTML is the content, the words of the website, CSS will determine how the website looks like stylistically. To see powerful exapmles of CSS, checkout [CSS Zen Garden] (http://www.csszengarden.com/) - you'll see websites using exactly the same HTML, but using different styles or CSS.
+
 
 ### Markdown
 
