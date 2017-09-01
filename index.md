@@ -45,7 +45,7 @@ __Editor__: there's two main types of editos. IDEs (Integreated Development Endi
 __Terminal__: for taking care of common tasks and navigation.
 __Browser__: the browser is used to test what you've created in your editor and they also help you debug (solve problems) your HTML, CSS and JavaSciprt. I recommend that you use Google Chrome, the most commonly used browser among web developers. 
 
-__Other tool__: 
+__Other tools__: 
 - phpMyAdmin for visualizing data (for servers)
 - Git: for version control, so that you can save, undo and share your projects. For sharing your Git projects, use GitHub (this is also the platform where this website is hosted on). 
 - Bootstrap: a framework for building websites fast (great grid system and interactivity)
