@@ -37,10 +37,11 @@ This is how Javascript looks like:
 ```
 var title = document.getElementByQuerySelector("h1").color = "blue"  // this will change the color of our header to blue (from pink).
 ```
+### Back-end
+We want get into back-end technologies too much here. If you want to learn more you can either ask one of our coaches or do a quick search online. A good way to start is a learning PHP (server-side scripting) and SQL (database language).
 
-# Header 1
-## Header 2
-### Header 3
+### Core Developer Tools
+
 
 - Bulleted
 - List
