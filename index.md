@@ -40,17 +40,13 @@ var title = document.getElementByQuerySelector("h1").color = "blue"  // this wil
 ### Back-end
 We want get into back-end technologies too much here. If you want to learn more you can either ask one of our coaches or do a quick search online. A good way to start is a learning PHP (server-side scripting) and SQL (database language).
 
-### Core Developer Tools
+### Core Developer Tools - the Big3
+__Editor__: there's two main types of editos. IDEs (Integreated Development Endivironments) or text editors. IDEs give you a ton of functionality that you as a beginner won't need. Instead, equip yourself with a text editor, they are much faster and can be customized with plug-ins. Popular and free text editor are Sublime Text and Atom. 
+__Terminal__: for taking care of common tasks and navigation.
+__Browser__: the browser is used to test what you've created in your editor and they also help you debug (solve problems) your HTML, CSS and JavaSciprt. I recommend that you use Google Chrome, the most commonly used browser among web developers. 
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+__Other tool__: 
+- phpMyAdmin for visualizing data (for servers)
+- Git: for version control, so that you can save, undo and share your projects. For sharing your Git projects, use GitHub (this is also the platform where this website is hosted on). 
+- Bootstrap: a framework for building websites fast (great grid system and interactivity)
+- Wordpress: a popular content management sysmte that powers 25% of all websites. 
