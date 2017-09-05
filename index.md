@@ -7,7 +7,7 @@ Every website today uses the following three technologies: __HTML__, __CSS__ and
 
 As a __web developer__ you will be responsible for building and maintaining content for the web. These includes different devices such as desktop, tablets and smartphones. 
 
-__Front-end__ developers work with languages that render in the browser (also called a client). Google Chrome, Mozilla Firefox, Safari and Internet Explorer are all __clients__. HTML, CSS and Javascript are all front-end technologies.
+__Front-end__ developers work with languages that render (to render means to apper on screen) in the browser (also called a client). Google Chrome, Mozilla Firefox, Safari and Internet Explorer are all __clients__. HTML, CSS and Javascript are all front-end technologies.
 
 Some websites require a special server (a big computer that _serves_ information), because certain content has to be customized for each user based on their data (for example, if the user is logged in or not). To develop that you will need to become a __back-end developer__ (because most of the action is happening at the back, you can't see it, unlike front-end, where any changes can be seen in the browser OR client:). 
 
