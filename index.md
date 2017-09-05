@@ -55,7 +55,7 @@ var title = document.getElementByQuerySelector("h1").color = "blue"  // this wil
 You can learn Javascript on [FreeCodeCamp](https://www.freecodecamp.org) (after the HTML and CSS chapters), or on [Codeacademy](https://www.codecademy.com/learn/introduction-to-javascript).
 
 ### Back-end
-We want get into back-end technologies too much here. If you want to learn more you can either ask one of our coaches or do a quick search online. A good way to start is a learning PHP (server-side scripting) and SQL (database language).You can also use Javascript on the back-end with node.JS. Checkout [NodeSchool](https://nodeschool.io/) for free tutorials. 
+We want get into back-end technologies too much here. If you want to learn more you can either ask one of our coaches or do a quick search online. A good way to start is a learning PHP (server-side scripting) and SQL (database language).You can also use Javascript on the back-end with __node.JS__. Checkout [NodeSchool](https://nodeschool.io/) for free tutorials. 
 
 ### Core Developer Tools - the Big3
 __Editor__: there's two main types of editors. IDEs (Integrated Development Environment) or text editors. IDEs give you a ton of functionality that you as a beginner won't need. Instead, equip yourself with a text editor, they are much faster and can be customized with plug-ins. Popular and free text editor are [Sublime Text](https://www.sublimetext.com/3) and Atom. 
