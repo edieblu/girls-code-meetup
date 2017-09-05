@@ -49,7 +49,8 @@ Now on to Javascript. Javascript is responsible for managing interactions within
 
 This is how Javascript looks like:
 ```
-var title = document.getElementByQuerySelector("h1").color = "blue"  // this will change the color of our header to blue (from pink).
+var title = document.getElementByQuerySelector("h1").color = "blue"  
+// this will change the color of our header to blue (from pink).
 ```
 
 You can learn Javascript on [FreeCodeCamp](https://www.freecodecamp.org) (after the HTML and CSS chapters), or on [Codeacademy](https://www.codecademy.com/learn/introduction-to-javascript).
