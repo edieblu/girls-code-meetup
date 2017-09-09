@@ -5,7 +5,7 @@ Every website today uses the following three technologies: __HTML__, __CSS__ and
 2. CSS
 3. Javascript
 
-If you want to go straight into action and see how these 3 technologies work in real life websites, checkout this beginner friendly tutorial on the basics of HTML, CSS and Javascript (and how the three interact in a single website), on youtube [here](https://www.youtube.com/watch?v=0VxXmuQZUeg). The entire tutorial is about an hour long. 
+If you want to jump straight into action and see how these 3 technologies interact, checkout this beginner friendly tutorial on the basics of HTML, CSS and Javascript (and how the three interact in a single website), on youtube [here](https://www.youtube.com/watch?v=0VxXmuQZUeg). The entire tutorial is about an hour long. 
 
 As a __web developer__ you will be responsible for building and maintaining content for the web. These includes different devices such as desktop, tablets and smartphones. 
 
